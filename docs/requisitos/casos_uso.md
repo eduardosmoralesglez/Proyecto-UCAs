@@ -14,32 +14,32 @@
 ## Operaciones por Actor
 
 ### Usuario General
-- Crear perfil: 
-- Modificar perfil:
-- Realizar pedido:
-- Entregar carga:
+- Crear perfil: Para acceder a la red tiene que crear un perfil de usuario.
+- Modificar perfil: El usuario puede modificar su perfil.
+- Realizar pedido: Solicitar a un portador la entrega de un pedido.
+- Entregar carga: Solicitar a un portador para que recoja una carga.
 
 ### Usuario de las UCAs
-- Crear perfil:
-- Modificar perfil:
-- Realizar pedido:
-- Entregar carga:
-- Realizar pedido prioritaria:
-- Entregar carga prioritaria:
-- Utilizar impresoras quirales:
+- Crear perfil: Para acceder a la red tiene que crear un perfil de usuario.
+- Modificar perfil: El usuario puede modificar su perfil.
+- Realizar pedido: Solicitar a un portador la entrega de un pedido.
+- Entregar carga: Solicitar a un portador para que recoja una carga.
+- Realizar pedido prioritaria: Solicita a un portador Qpido para la entrega de un pedido prioritario.
+- Entregar carga prioritaria: Solicita a un portador Qpido para la recogida de una carga prioritaria.
+- Utilizar impresoras Q: El usuario puede acceder a las impresoras quirales.
 
-### Portdores
-- Crear perfil:
-- Modificar perfil:
-- Ver pedidos:
-- Ver recogidas:
+### Portadores
+- Crear perfil: Para acceder a la red tiene que crear un perfil de usuario.
+- Modificar perfil: El usuario puede modificar su perfil.
+- Ver pedidos: El usuario puede ver todos los pedidos activos.
+- Ver recogidas: El usuario puede ver todas las recogidad activas.
 
 ### Usuarios Qpido
-- Crear perfil:
-- Modificar perfil:
-- Utilizar impresoras quirales:
-- Ver pedidos prioritarios:
-- Ver recogidas prioritarias:
-- Añadir usuario:
-- Promocionar usuario:
-- Eliminar usuario:
+- Crear perfil: Para acceder a la red tiene que crear un perfil de usuario.
+- Modificar perfil: El usuario puede modificar su perfil.
+- Utilizar impresoras quirales: El usuario puede acceder a las impresoras quirales.
+- Ver pedidos prioritarios: El usuario puede ver todos los pedidos prioritarios activos.
+- Ver recogidas prioritarias: El usuario puede ver todas las recogidad prioritarias activas.
+- Añadir usuario: Crear usuarios nuevos para la red.
+- Promocionar usuario: Promocionar un usuario general a usuario UCAs
+- Eliminar usuario: Eliminar o degradar a un usuario de la red.
