@@ -5,3 +5,9 @@ En este proyecto lo que se busca es crear un entorno donde las personas asociada
 (Lo base en un juego __"Death Stranding"__)
 
 
+**Ìndice**
+1. [Documentos](./docs/)
+   1. [Diseños](./docs/diseno/)
+   2. [Planificación](./docs/planificacion/)
+   3. [Requisitos](./docs/requisitos/)
+
